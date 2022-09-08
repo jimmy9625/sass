@@ -1,0 +1,33 @@
+.header {
+    grid-area: header;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.menu {
+    display: flex;
+    margin: 1vh;
+    text-decoration: none;
+    list-style: none;
+    justify-content: flex-end;
+
+}
+
+.logoMenu {
+    height: 12vh;
+}
+
+.optionMenu {
+    padding: 0vh 2vh 5vh 0vh;
+}
+
+.textMenu {
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}

@@ -30,22 +30,26 @@
     grid-area: 0;
 }
 
-.contenido1 {
-    display: flex;
-    grid-area: contenido1;
+
+.card {
     margin: 0vh 5vh 3vh 5vh;
     flex-direction: column;
     justify-content: space-around;
+    display: flex;
+
+
+}
+
+.contenido1 {
+    @extend .card;
+    grid-area: contenido1;
 }
 
 
 
 .contenido2 {
-    display: flex;
+    @extend .card;
     grid-area: contenido2;
-    margin: 0vh 5vh 3vh 0vh;
-    flex-direction: column;
-    justify-content: space-around;
 }
 
 .map {

@@ -1,0 +1,3 @@
+ eEn el archivo index.html sumé el SEO con las siguientes características:
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: “Sitio oficial de  revolution profecional center"
+Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio:"ejercicio , entrenamiento, gimnasio, medellin,colombia,deporte,clases" 
